@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=[YOUR%20NAME]&fontSize=60&fontColor=00fff5&animation=fadeIn&fontAlignY=38&desc=full-stack%20explorer%20%7C%20systems%20tinkerer%20%7C%20builder%20of%20things&descAlignY=60&descColor=888)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=[YOGESH%20GHADGE]&fontSize=60&fontColor=00fff5&animation=fadeIn&fontAlignY=38&desc=full-stack%20explorer%20%7C%20systems%20tinkerer%20%7C%20builder%20of%20things&descAlignY=60&descColor=888)
 
 </div>
 
