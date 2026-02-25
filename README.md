@@ -139,14 +139,14 @@ superpower  : connecting frontend pixels to backend logic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=transparent&hide_border=true&title_color=00fff5&icon_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=escape2005&show_icons=true&theme=transparent&hide_border=true&title_color=00fff5&icon_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escape2005&layout=compact&theme=transparent&hide_border=true&title_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=[your-username]&theme=transparent&hide_border=true&stroke=00fff5&ring=00fff5&fire=ff6b6b&currStreakLabel=00fff5&sideLabels=888&dates=555&currStreakNum=fff&sideNums=fff)
+![Streak](https://streak-stats.demolab.com?user=escape2005&theme=transparent&hide_border=true&stroke=00fff5&ring=00fff5&fire=ff6b6b&currStreakLabel=00fff5&sideLabels=888&dates=555&currStreakNum=fff&sideNums=fff)
 
 </div>
 
