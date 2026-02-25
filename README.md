@@ -4,7 +4,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║        // IDENTITY FILE — [YOUR NAME]                        ║
+║        // IDENTITY FILE — YOGESH GHADGE                      ║
 ║        // STATUS: ONLINE                                     ║
 ║        // LOCATION: SOMEWHERE IN THE STACK                   ║
 ║                                                              ║
@@ -26,7 +26,7 @@
 ### `> whoami`
 
 ```yaml
-name        : [Your Name]
+name        : Yogesh Ghadge
 role        : Full-Stack Developer / Systems Explorer
 status      : always building, always learning
 philosophy  : break things → understand them → build better ones
