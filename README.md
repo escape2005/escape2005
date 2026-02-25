@@ -140,7 +140,7 @@ superpower  : connecting frontend pixels to backend logic
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=transparent&hide_border=true&title_color=00fff5&icon_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=transparent&hide_border=true&title_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escape2005&layout=compact&theme=transparent&hide_border=true&title_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
 
 </div>
 
@@ -157,7 +157,6 @@ superpower  : connecting frontend pixels to backend logic
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-follow_the_signal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/[your-linkedin])
-[![Twitter](https://img.shields.io/badge/Twitter-catch_the_noise-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://twitter.com/[your-twitter])
 [![Portfolio](https://img.shields.io/badge/Portfolio-enter_the_void-00fff5?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://[your-portfolio])
 [![Email](https://img.shields.io/badge/Email-drop_a_packet-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:[your-email])
 
@@ -170,9 +169,5 @@ superpower  : connecting frontend pixels to backend logic
 ```
 // the best projects are the ones that don't exist yet.
 ```
-
-![visitors](https://komarev.com/ghpvc/?username=[your-username]&color=00fff5&style=flat-square&label=visitors)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer)
 
 </div>
