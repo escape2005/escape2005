@@ -139,7 +139,7 @@ superpower  : connecting frontend pixels to backend logic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=escape2005&show_icons=true&theme=transparent&hide_border=true&title_color=00fff5&icon_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=escape2005&show_icons=true&theme=transparent&hide_border=true&title_color=00fff5&icon_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escape2005&layout=compact&theme=transparent&hide_border=true&title_color=00fff5&text_color=aaa&bg_color=00000000" width="47%" />
 
 </div>
