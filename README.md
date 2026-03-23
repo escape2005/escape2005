@@ -55,14 +55,14 @@ superpower  : connecting frontend pixels to backend logic
 
 **⟨ Languages ⟩**
 
-![Language 1](https://img.shields.io/badge/[Lang1]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
-![Language 2](https://img.shields.io/badge/[Lang2]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
-![Language 3](https://img.shields.io/badge/[Lang3]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
-![Language 4](https://img.shields.io/badge/[Lang4]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
+![Language 1](https://img.shields.io/badge/[Java]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
+![Language 2](https://img.shields.io/badge/[C++]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
+![Language 3](https://img.shields.io/badge/[Python]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
+![Language 4](https://img.shields.io/badge/[C]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
 
 **⟨ Stack ⟩**
 
-![Tool 1](https://img.shields.io/badge/[Tool1]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
+![Tool 1](https://img.shields.io/badge/[MERN]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
 ![Tool 2](https://img.shields.io/badge/[Tool2]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
 ![Tool 3](https://img.shields.io/badge/[Tool3]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
 ![Tool 4](https://img.shields.io/badge/[Tool4]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
@@ -70,8 +70,7 @@ superpower  : connecting frontend pixels to backend logic
 
 **⟨ Workspace ⟩**
 
-![IDE 1](https://img.shields.io/badge/[IDE1]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
-![IDE 2](https://img.shields.io/badge/[IDE2]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
+![IDE 1](https://img.shields.io/badge/[VS_Code]-000?style=flat-square&logo=[logo]&logoColor=00fff5)
 
 </div>
 
@@ -83,24 +82,6 @@ superpower  : connecting frontend pixels to backend logic
 <tr>
 <td width="50%" valign="top">
 
-#### 🌧️ JalSarathi
-*A full-stack water conservation advisor*
-
-```
-╭─ what it does ──────────────────╮
-│ ░ estimates harvestable rain    │
-│ ░ calculates cost & payback     │
-│ ░ visualizes via charts         │
-│ ░ exports downloadable PDFs     │
-╰─────────────────────────────────╯
-```
-
-`React` `Tailwind` `Node.js` `Express` `SQLite`
-
-[![View](https://img.shields.io/badge/view_project-→-00fff5?style=flat-square&labelColor=000)](https://github.com/[your-username]/jalsarathi)
-
-</td>
-<td width="50%" valign="top">
 
 #### 🤖 MCP-Tools
 *Tool-driven AI workflow engine*
