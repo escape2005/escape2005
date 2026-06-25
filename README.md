@@ -104,9 +104,15 @@ Deep learning project focused on improving underwater image quality using image 
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yogesh-ghadge-3a5910293/)
+<p align="left">
+  <a href="[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/yogesh-ghadge-3a5910293/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:yogeshghadge493@gmail.com)
+  <a href="mailto:yogeshghadge493@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat" />
+  </a>
+</p>
 
 ---
 
