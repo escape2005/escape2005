@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Yogesh+Ghadge;AI+%26+Data+Science+Undergraduate;SQL+Developer+%7C+Data+Analyst;Python+%7C+Machine+Learning+%7C+Backend+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Yogesh+Ghadge;AI+%26+Data+Science+Undergraduate;SQL+Development+%7C+Data+Analysis;Python+%7C+Machine+Learning" />
 </p>
 
 # Hi, I'm Yogesh Ghadge 👋
