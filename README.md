@@ -1,20 +1,125 @@
-# 💫 About Me:
-name        : Yogesh Ghadge<br>role        : Full-Stack Developer / Systems Explorer<br>status      : always building, always learning<br>philosophy  : break things → understand them → build better ones<br>superpower  : connecting frontend pixels to backend logic<br>```<br><br>```<br>[▓▓▓▓▓▓▓▓░░]  Web Applications       — where ideas become real<br>[▓▓▓▓▓▓░░░░]  System Design          — how things actually work<br>[▓▓▓▓▓▓▓░░░]  Backend Architecture   — the invisible engine<br>[▓▓▓▓░░░░░░]  AI & Tool Workflows    — the future is agentic<br>[▓▓▓▓▓░░░░░]  Frontend Performance   — because UX is respect<br>```<br><br>---<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Yogesh+Ghadge;AI+%26+Data+Science+Undergraduate;SQL+Developer+%7C+Data+Analyst;Python+%7C+Machine+Learning+%7C+Backend+Development" />
+</p>
 
+# Hi, I'm Yogesh Ghadge 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yogeshh_ghadge_.09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogesh-ghadge-3a5910293/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshghadge493@gmail.com) 
+### AI & Data Science Undergraduate | SQL • Python • Data Analytics • Machine Learning
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=escape2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=escape2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=escape2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a final-year B.E. student in **Artificial Intelligence & Data Science** with a strong interest in **SQL, database systems, data analytics, machine learning, and backend engineering**. I enjoy transforming raw data into meaningful insights, designing efficient data workflows, and building intelligent software solutions that solve real-world problems.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently, I'm focused on strengthening my expertise in **SQL development, data quality, database design, and Pythaon automation**, while continuously exploring modern AI technologies.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=escape2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
+## 🚀 About Me
+
+* 🎓 B.E. in Artificial Intelligence & Data Science
+* 📊 Interested in SQL Development, Data Analytics & Data Engineering
+* 🐍 Strong foundation in Python and data-driven application development
+* 🗄️ Experience working with relational and NoSQL databases
+* 🤖 Passionate about Machine Learning and AI-powered applications
+* 💡 Love solving analytical and real-world business problems
+* 📚 Always learning new tools, technologies, and best engineering practices
+
+---
+
+# 💼 Technical Skills
+
+### Languages
+
+`Python` • `SQL` • `Java` • `C++` • `JavaScript`
+
+### Databases
+
+`PostgreSQL` • `Oracle SQL` • `MySQL` • `MongoDB` • `Supabase`
+
+### Data & Analytics
+
+`SQL` • `Data Analysis` • `Data Cleaning` • `Data Modeling` • `Database Design` • `Pandas` • `NumPy` • `Excel`
+
+### AI & Machine Learning
+
+`TensorFlow` • `PyTorch` • `Scikit-Learn` • `OpenCV` • `Computer Vision`
+
+### Backend & Development
+
+`Node.js` • `Express.js` • `REST APIs` • `React` • `Flutter`
+
+### Tools
+
+`Git` • `GitHub` • `Docker` • `Postman` • `VS Code`
+
+---
+
+# 📌 Featured Projects
+
+### 🛒 Zepto Inventory Data Analysis
+
+Developed an end-to-end SQL analytics project on a real-world e-commerce inventory dataset. Performed database creation, data cleaning, exploratory data analysis, inventory analytics, pricing analysis, and business insight generation using PostgreSQL.
+
+**Tech:** PostgreSQL • SQL
+
+---
+
+### 🤖 ConversAI
+
+An AI-powered multilingual assistant developed for Smart India Hackathon that combines Vision Language Models with Retrieval-Augmented Generation to enable intelligent document understanding and conversational interactions.
+
+**Tech:** Python • Llama • CLIP • Next.js • Express • MongoDB
+
+---
+
+### 🌊 Underwater Image Enhancement
+
+Deep learning project focused on improving underwater image quality using image enhancement models and quantitative evaluation metrics for marine computer vision applications.
+
+**Tech:** Python • TensorFlow • Deep Learning
+
+---
+
+# 🌱 Currently Exploring
+
+* Advanced SQL & Query Optimization
+* Oracle SQL & Database Programming
+* Data Quality Frameworks
+* Data Modeling & Data Architecture
+* Python for Data Engineering
+* Machine Learning for Structured Data
+* AI-assisted Software Development
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=escape2005\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=escape2005\&theme=github-dark\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=escape2005\&layout=compact\&theme=github_dark\&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=escape2005&style=for-the-badge)
+
+---
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yogesh-ghadge-3a5910293/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:yogeshghadge493@gmail.com)
+
+---
+
+### 📌 Core Strengths
+
+* SQL Development
+* Data Analysis
+* Database Design
+* Data Modeling
+* Problem Solving
+* Machine Learning
+* Analytical Thinking
+
+---
+
+> *"Building reliable software begins with understanding data."*
